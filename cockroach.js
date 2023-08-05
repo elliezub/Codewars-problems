@@ -9,10 +9,11 @@
 function cockroachSpeed(s) {
   //takes km/hr
   // multiply s(which is km per hour) * 100000 (which is how many cm in one km)
-  //divide new cm by 60
+  // divide new cm by 60
   // divide again by 60
+  // make sure to use Math.floor
   // return result
-  return (s * 100000) / 60 / 60;
+  return Math.floor((s * 100000) / 60 / 60);
 }
 
 console.log(cockroachSpeed(5));
