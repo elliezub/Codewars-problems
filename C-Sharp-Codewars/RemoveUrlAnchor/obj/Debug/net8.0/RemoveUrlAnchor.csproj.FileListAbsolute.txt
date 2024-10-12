@@ -1,0 +1,15 @@
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.AssemblyInfoInputs.cache
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.AssemblyInfo.cs
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.csproj.CoreCompileInputs.cache
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.sourcelink.json
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\bin\Debug\net8.0\RemoveUrlAnchor.exe
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\bin\Debug\net8.0\RemoveUrlAnchor.deps.json
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\bin\Debug\net8.0\RemoveUrlAnchor.runtimeconfig.json
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\bin\Debug\net8.0\RemoveUrlAnchor.dll
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\bin\Debug\net8.0\RemoveUrlAnchor.pdb
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.dll
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\refint\RemoveUrlAnchor.dll
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.pdb
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\RemoveUrlAnchor.genruntimeconfig.cache
+C:\Users\ellie\Documents\GitHub\Codewars-problems\C-Sharp-Codewars\RemoveUrlAnchor\obj\Debug\net8.0\ref\RemoveUrlAnchor.dll
